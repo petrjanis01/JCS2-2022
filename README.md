@@ -1,6 +1,6 @@
 # JCS2-2022
 
-Kontakt: [petr.janis01upol.cz](mailto:petr.janis01upol.cz)
+Kontakt: [petr.janis01@upol.cz](mailto:petr.janis01@upol.cz)
 
 Originální materiály, podmínky zápočtu a další informace k předmětu [zde](https://apollo.inf.upol.cz/~janostik/teaching/).
 
