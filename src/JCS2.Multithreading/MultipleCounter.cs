@@ -36,8 +36,10 @@ namespace JCS2.Multithreading
             for (var i = 0; i < 100; i++)
             {
                 Thread.Sleep(Random.Next(1, 10));
-                // TODO lock
-                param.Number++;
+                lock (param)
+                {
+                    param.Number++;
+                }
                 Thread.Sleep(Random.Next(1, 10));
             }
         }
