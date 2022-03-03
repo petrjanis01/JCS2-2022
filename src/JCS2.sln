@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JCS2.Multithreading.UI", "J
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JCS2.Multithreading", "JCS2.Multithreading\JCS2.Multithreading.csproj", "{1D05AC51-80DA-4B13-9251-915AAE774E71}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03", "03", "{62FDB3BD-8EE4-4678-900F-6EB292594B6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JCS2.FileSystem", "JCS2.FileSystem\JCS2.FileSystem.csproj", "{FF7BB79E-FAE4-475D-9AE1-603EE399AFE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +27,10 @@ Global
 		{1D05AC51-80DA-4B13-9251-915AAE774E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D05AC51-80DA-4B13-9251-915AAE774E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D05AC51-80DA-4B13-9251-915AAE774E71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF7BB79E-FAE4-475D-9AE1-603EE399AFE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF7BB79E-FAE4-475D-9AE1-603EE399AFE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF7BB79E-FAE4-475D-9AE1-603EE399AFE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF7BB79E-FAE4-475D-9AE1-603EE399AFE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +38,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{23DC2528-7B43-4238-A389-9377AD022866} = {64F7C820-06FC-4E49-8047-0F2F36997694}
 		{1D05AC51-80DA-4B13-9251-915AAE774E71} = {64F7C820-06FC-4E49-8047-0F2F36997694}
+		{FF7BB79E-FAE4-475D-9AE1-603EE399AFE2} = {62FDB3BD-8EE4-4678-900F-6EB292594B6F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7C7B19F7-AB6F-4FD5-AC9E-7C7F2950F5D3}
