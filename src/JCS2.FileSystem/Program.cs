@@ -61,7 +61,7 @@ namespace JCS2.FileSystem
                 {
                     var character = sr.Read();
 
-                    Console.WriteLine((char)character);
+                    Console.Write((char)character);
                 }
             }
         }
