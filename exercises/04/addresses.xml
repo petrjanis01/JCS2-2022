@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAddress xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Address>
+    <City>East Waldoton</City>
+    <Street>Eleanore Cove</Street>
+    <BuildingNumber>794</BuildingNumber>
+    <ZipCode>00457</ZipCode>
+  </Address>
+  <Address>
+    <City>Casperfort</City>
+    <Street>Benedict Flat</Street>
+    <BuildingNumber>7883</BuildingNumber>
+    <ZipCode>39130</ZipCode>
+  </Address>
+  <Address>
+    <City>Port Albamouth</City>
+    <Street>Carlos Ports</Street>
+    <BuildingNumber>33316</BuildingNumber>
+    <ZipCode>40375-3899</ZipCode>
+  </Address>
+  <Address>
+    <City>Florianberg</City>
+    <Street>Orland Land</Street>
+    <BuildingNumber>9309</BuildingNumber>
+    <ZipCode>45979-1378</ZipCode>
+  </Address>
+  <Address>
+    <City>New Dejahfort</City>
+    <Street>Kassulke Villages</Street>
+    <BuildingNumber>59219</BuildingNumber>
+    <ZipCode>49686-8300</ZipCode>
+  </Address>
+  <Address>
+    <City>Aliviashire</City>
+    <Street>Homenick Bridge</Street>
+    <BuildingNumber>1510</BuildingNumber>
+    <ZipCode>79689</ZipCode>
+  </Address>
+  <Address>
+    <City>Lake Neha</City>
+    <Street>Mitchell Station</Street>
+    <BuildingNumber>0572</BuildingNumber>
+    <ZipCode>68505</ZipCode>
+  </Address>
+  <Address>
+    <City>Phoebeshire</City>
+    <Street>Marks Curve</Street>
+    <BuildingNumber>869</BuildingNumber>
+    <ZipCode>16900-6452</ZipCode>
+  </Address>
+  <Address>
+    <City>Wiegandberg</City>
+    <Street>Jimmie Station</Street>
+    <BuildingNumber>38925</BuildingNumber>
+    <ZipCode>14890</ZipCode>
+  </Address>
+  <Address>
+    <City>Ortizmouth</City>
+    <Street>Antwon Stream</Street>
+    <BuildingNumber>8872</BuildingNumber>
+    <ZipCode>94986</ZipCode>
+  </Address>
+  <Address>
+    <City>Kendrickview</City>
+    <Street>Noemy Tunnel</Street>
+    <BuildingNumber>9763</BuildingNumber>
+    <ZipCode>55206-4856</ZipCode>
+  </Address>
+  <Address>
+    <City>Jastside</City>
+    <Street>Von Mills</Street>
+    <BuildingNumber>50864</BuildingNumber>
+    <ZipCode>72461-7133</ZipCode>
+  </Address>
+  <Address>
+    <City>East Anastasiabury</City>
+    <Street>Zora Ferry</Street>
+    <BuildingNumber>90307</BuildingNumber>
+    <ZipCode>57835</ZipCode>
+  </Address>
+  <Address>
+    <City>New Roy</City>
+    <Street>Hauck Brook</Street>
+    <BuildingNumber>969</BuildingNumber>
+    <ZipCode>03352</ZipCode>
+  </Address>
+  <Address>
+    <City>Kelsiemouth</City>
+    <Street>Bella Inlet</Street>
+    <BuildingNumber>851</BuildingNumber>
+    <ZipCode>01983</ZipCode>
+  </Address>
+  <Address>
+    <City>New Shirley</City>
+    <Street>Goyette Pike</Street>
+    <BuildingNumber>330</BuildingNumber>
+    <ZipCode>36996-2892</ZipCode>
+  </Address>
+  <Address>
+    <City>North Idella</City>
+    <Street>Aaliyah Wall</Street>
+    <BuildingNumber>15787</BuildingNumber>
+    <ZipCode>07748</ZipCode>
+  </Address>
+  <Address>
+    <City>Bashirianfort</City>
+    <Street>Ursula Causeway</Street>
+    <BuildingNumber>325</BuildingNumber>
+    <ZipCode>78296</ZipCode>
+  </Address>
+  <Address>
+    <City>West Brookfort</City>
+    <Street>Gutkowski Loaf</Street>
+    <BuildingNumber>8628</BuildingNumber>
+    <ZipCode>62123</ZipCode>
+  </Address>
+  <Address>
+    <City>Townebury</City>
+    <Street>Benjamin Junction</Street>
+    <BuildingNumber>67697</BuildingNumber>
+    <ZipCode>67403-6616</ZipCode>
+  </Address>
+</ArrayOfAddress>

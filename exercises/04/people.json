@@ -1,0 +1,162 @@
+[
+    {
+        "firstName": "User",
+        "lastName": "0",
+        "email": "User0@gmail.com",
+        "phoneNumber": "123456789",
+        "credit": 6434,
+        "birthDate": "1986-11-11T00:00:00"
+    },
+    {
+        "firstName": "User",
+        "lastName": "1",
+        "email": "User1@gmail.com",
+        "phoneNumber": "123456789",
+        "credit": 8604,
+        "birthDate": "1974-07-27T00:00:00"
+    },
+    {
+        "firstName": "User",
+        "lastName": "2",
+        "email": "User2@gmail.com",
+        "phoneNumber": "123456789",
+        "credit": 4580,
+        "birthDate": "1985-08-13T00:00:00"
+    },
+    {
+        "firstName": "User",
+        "lastName": "3",
+        "email": "User3@gmail.com",
+        "phoneNumber": "123456789",
+        "credit": 5824,
+        "birthDate": "1990-03-17T00:00:00"
+    },
+    {
+        "firstName": "User",
+        "lastName": "4",
+        "email": "User4@gmail.com",
+        "phoneNumber": "123456789",
+        "credit": 8235,
+        "birthDate": "1968-03-08T00:00:00"
+    },
+    {
+        "firstName": "User",
+        "lastName": "5",
+        "email": "User5@gmail.com",
+        "phoneNumber": "123456789",
+        "credit": 2680,
+        "birthDate": "1980-12-15T00:00:00"
+    },
+    {
+        "firstName": "User",
+        "lastName": "6",
+        "email": "User6@gmail.com",
+        "phoneNumber": "123456789",
+        "credit": 3492,
+        "birthDate": "1979-12-08T00:00:00"
+    },
+    {
+        "firstName": "User",
+        "lastName": "7",
+        "email": "User7@gmail.com",
+        "phoneNumber": "123456789",
+        "credit": 4672,
+        "birthDate": "1989-12-09T00:00:00"
+    },
+    {
+        "firstName": "User",
+        "lastName": "8",
+        "email": "User8@gmail.com",
+        "phoneNumber": "123456789",
+        "credit": 9843,
+        "birthDate": "1977-04-05T00:00:00"
+    },
+    {
+        "firstName": "User",
+        "lastName": "9",
+        "email": "User9@gmail.com",
+        "phoneNumber": "123456789",
+        "credit": 8518,
+        "birthDate": "1998-07-04T00:00:00"
+    },
+    {
+        "firstName": "User",
+        "lastName": "10",
+        "email": "User10@gmail.com",
+        "phoneNumber": "123456789",
+        "credit": 6264,
+        "birthDate": "1979-08-12T00:00:00"
+    },
+    {
+        "firstName": "User",
+        "lastName": "11",
+        "email": "User11@gmail.com",
+        "phoneNumber": "123456789",
+        "credit": 836,
+        "birthDate": "1972-10-21T00:00:00"
+    },
+    {
+        "firstName": "User",
+        "lastName": "12",
+        "email": "User12@gmail.com",
+        "phoneNumber": "123456789",
+        "credit": 602,
+        "birthDate": "1968-02-22T00:00:00"
+    },
+    {
+        "firstName": "User",
+        "lastName": "13",
+        "email": "User13@gmail.com",
+        "phoneNumber": "123456789",
+        "credit": 9040,
+        "birthDate": "1970-02-06T00:00:00"
+    },
+    {
+        "firstName": "User",
+        "lastName": "14",
+        "email": "User14@gmail.com",
+        "phoneNumber": "123456789",
+        "credit": 6461,
+        "birthDate": "1976-01-13T00:00:00"
+    },
+    {
+        "firstName": "User",
+        "lastName": "15",
+        "email": "User15@gmail.com",
+        "phoneNumber": "123456789",
+        "credit": 2978,
+        "birthDate": "1975-06-22T00:00:00"
+    },
+    {
+        "firstName": "User",
+        "lastName": "16",
+        "email": "User16@gmail.com",
+        "phoneNumber": "123456789",
+        "credit": 6371,
+        "birthDate": "1975-06-07T00:00:00"
+    },
+    {
+        "firstName": "User",
+        "lastName": "17",
+        "email": "User17@gmail.com",
+        "phoneNumber": "123456789",
+        "credit": 4319,
+        "birthDate": "1965-09-25T00:00:00"
+    },
+    {
+        "firstName": "User",
+        "lastName": "18",
+        "email": "User18@gmail.com",
+        "phoneNumber": "123456789",
+        "credit": 5592,
+        "birthDate": "1968-08-24T00:00:00"
+    },
+    {
+        "firstName": "User",
+        "lastName": "19",
+        "email": "User19@gmail.com",
+        "phoneNumber": "123456789",
+        "credit": 8402,
+        "birthDate": "1983-06-04T00:00:00"
+    }
+]

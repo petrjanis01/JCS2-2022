@@ -19,3 +19,7 @@ Odevzdání úkolů mimo seminář vždy nejpozději do půlnoci další středy
 3. [Zadání](https://github.com/petrjanis01/JCS2-2022/blob/main/exercises/03/03.md)
     
     Odevzdání na [GitHub Classroom](https://classroom.github.com/a/1u7jXmU-)
+
+4. [Zadání](./exercises/04/04.md)
+    
+    Odevzdání na [GitHub Classroom](https://classroom.github.com/a/dLiu-F0-)

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<items>
+  <item att1="foo" att2="bar">
+    <number>25</number>
+    <str>Some string</str>
+  </item>
+  <item att1="bar" att2="baz">
+    <number>5</number>
+    <str>Another string</str>
+  </item>
+  <item att1="xgf" att2="abc">
+    <number>2255</number>
+    <str>The End!</str>
+  </item>
+</items>
