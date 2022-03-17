@@ -23,3 +23,7 @@ Odevzdání úkolů mimo seminář vždy nejpozději do půlnoci další středy
 4. [Zadání](./exercises/04/04.md)
     
     Odevzdání na [GitHub Classroom](https://classroom.github.com/a/dLiu-F0-)
+
+5. Zadání
+    
+    Odevzdání na [GitHub Classroom](https://classroom.github.com/a/8UZ_YmJH)
