@@ -47,21 +47,23 @@ namespace JCS2.Linq
             //Console.WriteLine(del(1));
 
             Func<int, int> f = (int i) => i * i;
-            //Console.WriteLine(f(1));
+            //Console.WriteLine(f(2));
 
-            Func<int, int> someFunction = GetFunc(7);
-            //Console.WriteLine(someFunction.Invoke(7));
+            Func<int, int> someFunction = GetFunc(10);
+            //Console.WriteLine(someFunction.Invoke(2));
 
-            var res = People.Select(p => new { p.Name, p.Surname }).Distinct();
+            //var a = People.Test().Test();
+
+            //var res = People.Select(p => new { p.Name, p.Surname }).Distinct();
             //foreach (var i in res)
             //{
             //    Console.WriteLine(i);
             //}
             //Console.WriteLine();
 
-            //SetOperations();
+            //var a = People.Distinct().ToList();
 
-            // TODO show real API project
+            //SetOperations();
         }
 
         public static void SetOperations()
