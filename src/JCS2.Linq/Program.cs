@@ -61,7 +61,7 @@ namespace JCS2.Linq
             //}
             //Console.WriteLine();
 
-            //var a = People.Distinct().ToList();
+            var a = People.Distinct().ToList();
 
             //SetOperations();
         }
