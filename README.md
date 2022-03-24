@@ -27,3 +27,7 @@ Odevzdání úkolů mimo seminář vždy nejpozději do půlnoci další středy
 5. Zadání [slidy 9](https://apollo.inf.upol.cz/~janostik/slides/jcs205.pdf). Upravený soubor [Database.cs](./exercises/05/Database.cs)
 
     Odevzdání na [GitHub Classroom](https://classroom.github.com/a/8UZ_YmJH)
+
+6. Zadání
+
+    Odevzdání na [GitHub Classroom](https://classroom.github.com/a/Ikuqdz1F)
