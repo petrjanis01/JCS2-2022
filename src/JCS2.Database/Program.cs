@@ -8,7 +8,6 @@ namespace JCS2.Database
         static void Main(string[] args)
         {
             // ! .NET Framework !
-            // TODO show server explorer
 
             // Works only on my machine => connection needs to be initialized manually.
             var fileConnectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\School\JCS2\JCS2-2022\src\JCS2.Database\db.mdf;Integrated Security=True;Connect Timeout=30";

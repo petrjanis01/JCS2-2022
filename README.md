@@ -28,6 +28,6 @@ Odevzdání úkolů mimo seminář vždy nejpozději do půlnoci další středy
 
     Odevzdání na [GitHub Classroom](https://classroom.github.com/a/8UZ_YmJH)
 
-6. Zadání
+6. Zadání [slidy](https://apollo.inf.upol.cz/~janostik/slides/jcs206.pdf)
 
     Odevzdání na [GitHub Classroom](https://classroom.github.com/a/Ikuqdz1F)
