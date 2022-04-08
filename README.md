@@ -32,6 +32,10 @@ Odevzdání úkolů mimo seminář vždy nejpozději do půlnoci další středy
 
     Odevzdání na [GitHub Classroom](https://classroom.github.com/a/Ikuqdz1F)
 
-6. Zadání [slidy](https://apollo.inf.upol.cz/~janostik/slides/jcs207.pdf)
+7. Zadání [slidy](https://apollo.inf.upol.cz/~janostik/slides/jcs207.pdf)
 
     Odevzdání na [GitHub Classroom](https://classroom.github.com/a/_4VBlJSM)
+
+8. Zadání [slidy](https://apollo.inf.upol.cz/~janostik/slides/jcs208.pdf)
+
+    Odevzdání na [GitHub Classroom](https://classroom.github.com/a/NHeNSz76)
