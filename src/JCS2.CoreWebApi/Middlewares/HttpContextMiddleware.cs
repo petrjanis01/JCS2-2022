@@ -21,10 +21,10 @@ namespace JCS2.CoreWebApi.Middlewares
             Console.WriteLine(context.Request.Path);
             Console.WriteLine(context.Request.Method);
 
+            await _next(context);
+
             _logger.LogInformation(context.Request.Path);
             _logger.LogInformation(context.Request.Method);
-
-            await _next(context);
         }
     }
 }
