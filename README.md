@@ -36,6 +36,10 @@ Odevzdání úkolů mimo seminář vždy nejpozději do půlnoci další středy
 
     Odevzdání na [GitHub Classroom](https://classroom.github.com/a/_4VBlJSM)
 
+    **Náhradní** [Zadání](./exercises/07/07_1.md)
+
+    Odevzdání na [GitHub Classroom](https://classroom.github.com/a/l8uZ7fP4)
+
 8. Zadání [slidy](https://apollo.inf.upol.cz/~janostik/slides/jcs208.pdf)
 
     Odevzdání na [GitHub Classroom](https://classroom.github.com/a/NHeNSz76)
@@ -43,3 +47,7 @@ Odevzdání úkolů mimo seminář vždy nejpozději do půlnoci další středy
 9. [Zadání](./exercises/09/09.md)
 
     Odevzdání na [GitHub Classroom](https://classroom.github.com/a/z8Jw9hY1)
+
+10. Zadání [slidy](https://apollo.inf.upol.cz/~janostik/slides/jcs211.pdf)
+
+    Odevzdání na email petr.janis01@upol.cz -> screenshot před a po.
